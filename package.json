@@ -1,6 +1,6 @@
 {
   "name": "@gonzih/skills-science",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Scientific data access skills for Claude Code — arxiv, pubmed, alpha-vantage, nasa, biopython, rdkit, astropy, OpenAlex, FRED, polars, pytorch",
   "main": "index.js",
   "files": [
