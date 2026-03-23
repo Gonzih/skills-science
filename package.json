@@ -1,0 +1,31 @@
+{
+  "name": "@gonzih/skills-science",
+  "version": "1.0.0",
+  "description": "Scientific data access skills for Claude Code — arxiv, pubmed, alpha-vantage, biopython, rdkit, astropy, OpenAlex, FRED, polars, pytorch",
+  "main": "index.js",
+  "files": [
+    "skills/",
+    "README.md"
+  ],
+  "keywords": [
+    "claude-code",
+    "skills",
+    "science",
+    "arxiv",
+    "pubmed",
+    "alpha-vantage",
+    "biopython",
+    "rdkit",
+    "astropy",
+    "openalex",
+    "fred",
+    "polars",
+    "pytorch"
+  ],
+  "author": "gonzih",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gonzih/skills-science.git"
+  }
+}
